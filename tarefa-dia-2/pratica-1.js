@@ -1,0 +1,5 @@
+let nome = "Fernando Moraes"
+let email = "fernando.f.m@hotmail.com"
+let profissao = "Consultor Tecnico"
+let idade = "40"
+let sonhaConhecer = "Portugal"
